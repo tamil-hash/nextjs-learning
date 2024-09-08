@@ -1,0 +1,16 @@
+{
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"javascript.preferences.importModuleSpecifier": "non-relative",
+	"editor.formatOnSave": true,
+	"prettier.singleQuote": true,
+	"prettier.printWidth": 80,
+	"typescript.validate.enable": false,
+	"javascript.validate.enable": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
